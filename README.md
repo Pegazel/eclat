@@ -58,3 +58,4 @@ Le projet est configuré pour **Vercel** :
 3. déclencher les déploiements de production depuis la branche `main`.
 
 Le fichier `vercel.json` assure la compatibilité des routes React (notamment `/projet`) et ajoute des en-têtes HTTP de sécurité. Une fois le dépôt connecté, chaque mise à jour validée sur `main` déclenchera un nouveau déploiement.
+# eclat
